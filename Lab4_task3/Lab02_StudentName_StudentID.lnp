@@ -1,0 +1,13 @@
+--cpu Cortex-M3
+".\joystick.o"
+".\led.o"
+".\main.o"
+".\uart.o"
+"D:\Keil_package_install\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM3.lib"
+".\rtx_conf_cm.o"
+".\startup_lpc17xx.o"
+".\system_lpc17xx.o"
+--strict --scatter ".\Lab02_StudentName_StudentID.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lab02_StudentName_StudentID.map" -o .\Lab02_StudentName_StudentID.axf

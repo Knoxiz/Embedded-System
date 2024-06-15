@@ -1,0 +1,11 @@
+Dependencies for Project 'Lab04.Task3', Target 'LPC1768_Lab02': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (.\Joystick.c)(0x5DAC1434)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\RTE\Device\LPC1768-I.\RTE\_LPC1768_Lab02-ID:\Keil_package_install\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Keil_package_install\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-ID:\Keil_package_install\Keil\LPC1700_DFP\2.5.0\Device\Include-D__UVISION_VERSION="531" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\joystick.o --omf_browse .\joystick.crf --depend .\joystick.d)
+F (.\Led.c)(0x5DAC143A)()
+F (.\main.c)(0x6657F11B)()
+F (.\Uart.c)(0x6657F0B2)()
+F (C:/Users/th417/AppData/Local/Arm/Packs/ARM/CMSIS/4.5.0/CMSIS/RTOS/RTX/LIB/ARM/RTX_CM3.lib)(0x56246B16)()
+F (RTE/CMSIS/RTX_Conf_CM.c)(0x5DAC165E)()
+F (RTE/Device/LPC1768/RTE_Device.h)(0x5DAC173A)()
+F (RTE/Device/LPC1768/startup_LPC17xx.s)(0x5DAC1739)()
+F (RTE/Device/LPC1768/system_LPC17xx.c)(0x5DAC1739)()
